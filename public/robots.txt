@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://AMS50LLC.com/sitemap.xml
